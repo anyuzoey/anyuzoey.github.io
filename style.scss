@@ -180,6 +180,16 @@ img {
   }
 }
 
+// .site-info {
+//   float: left;
+
+//   @include mobile {
+//     float: none;
+//     display: block;
+//     margin: 0 auto;
+//   }
+// }
+
 .site-info {
   float: left;
 
@@ -187,6 +197,7 @@ img {
     float: none;
     display: block;
     margin: 0 auto;
+    padding-top: 20px;
   }
 }
 
